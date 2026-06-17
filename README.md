@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- BANNER PLACEHOLDER: You can create a 1200x300 banner in Canva with your name and insert the link below! -->
-  <img src="https://raw.githubusercontent.com/ANASF1412/AnasF_Portfolio/main/public/images/banner_placeholder.png" alt="Anas F Banner" width="100%">
+  <img src="banner.png" alt="Anas F Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Anas F!</h1>
