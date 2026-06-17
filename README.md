@@ -1,3 +1,4 @@
+````markdown
 <p align="center">
   <img src="banner.png" alt="Anas F Banner" width="100%">
 </p>
@@ -9,101 +10,157 @@
 <h1 align="center">👋 Welcome to My Engineering Space | I'm Anas F</h1>
 
 <p align="center">
-  <strong>🚀 B.Tech in Computer Science and Business Systems (CSBS) Undergraduate</strong><br>
-  Building Scalable Architectures • Orchestrating Production MLOps • Algorithmic Problem Solving
+  <strong>B.Tech in Computer Science and Business Systems (CSBS)</strong><br>
+  Building Scalable Applications • Exploring MLOps • Solving Algorithmic Problems
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anas-f-a5a595320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://anas-f-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:anas.f2024csbs@sece.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/anas-f-a5a595320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://anas-f-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:anas.f2024csbs@sece.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-### 🚀 Executive Summary
-I bridge the gap between core computer science, software design patterns, and production-grade intelligent systems. My engineering focus centers on building robust, modular web architectures and automating the deployment, containerization, and monitoring of high-throughput AI models.
+## 🚀 About Me
+
+I'm a Computer Science and Business Systems undergraduate passionate about building practical software solutions that combine intelligent systems, scalable architectures, and modern development workflows.
+
+My interests include:
+
+- 🤖 Machine Learning and MLOps
+- 🌐 Full-Stack Web Development
+- 🐳 Containerization and Deployment
+- 📊 Data Structures and Algorithms
+- 🔍 Computer Vision Applications
 
 ---
 
-### 🛠️ Featured Architectural Engineering
+## 🛠️ Featured Projects
 
-#### 🏙️ Intelligent Urban Resilience Infrastructure | `Python` `MLOps` `Docker` `Pipelines`
-*   **The Mission:** Architecting an automated end-to-end MLOps ecosystem designed to ingest, evaluate, and scale intelligence for urban resilience models.
-*   **Engineering Impact:** Implementing reproducible pipelines, strict model version control, and containerized deployment workflows to assure high-availability processing.
+### 🏙️ Intelligent Urban Resilience Infrastructure
 
-#### 👁️ High-Throughput Real-Time ANPR System | `YOLOv8` `OpenCV` `EasyOCR`
-*   **The Mission:** Engineered an automated, low-latency Automated Number Plate Recognition framework at **NIELIT Calicut**.
-*   **Engineering Impact:** Optimized deep learning spatial inference paths using custom image processing pipelines, achieving real-time alphanumeric extraction and high target accuracy under dynamic environments.
+**Tech Stack:** `Python` `MLOps` `Docker`
 
-#### 🌐 BioFund Connect — Modular ESG Architecture | `MERN Stack` `JWT` `Security`
-*   **The Mission:** Developed a robust enterprise-tier Environmental, Social, and Governance compliance platform.
-*   **Engineering Impact:** Modeled a decoupled relational/non-relational database architecture, implemented secure stateless JWT authorization workflows, and designed reusable frontend context components.
+- Designed an end-to-end MLOps workflow for urban resilience analytics.
+- Built reproducible pipelines with model versioning and automated deployment.
+- Containerized services to enable scalable and portable execution.
+
+### 👁️ Real-Time ANPR System
+
+**Tech Stack:** `YOLOv8` `OpenCV` `EasyOCR`
+
+- Developed an Automated Number Plate Recognition system during my internship at **NIELIT Calicut**.
+- Implemented image preprocessing and OCR pipelines for real-time inference.
+- Improved detection performance in dynamic environments.
+
+### 🌱 BioFund Connect – ESG Platform
+
+**Tech Stack:** `MERN Stack` `JWT` `MongoDB`
+
+- Built a full-stack ESG compliance platform with secure authentication.
+- Designed reusable frontend components and RESTful APIs.
+- Implemented JWT-based authorization and scalable database architecture.
 
 ---
 
-### ⚙️ Production Pipeline Workflow
-*An abstract architectural preview of my automated data-to-deployment philosophy:*
+## ⚙️ Development Workflow
 
 ```mermaid
 graph LR
-    A[Data Ingestion / Streams] --> B(YOLOv8 / Deep Learning Engine)
-    B --> C{CV Processing Matrix}
-    C -->|EasyOCR / Text Isolation| D[Structured JSON Payloads]
-    D --> E[Secure MERN Platform Backend]
-    E --> F[Docker Containerization & Linux Deploy]
-    style F fill:#1f6feb,stroke:#58a6ff,stroke-width:2px;
-    style A fill:#238636,stroke:#2ea043,stroke-width:2px;
+    A[Data Collection] --> B[Model Development]
+    B --> C[Computer Vision Pipeline]
+    C --> D[Structured Output]
+    D --> E[MERN Backend]
+    E --> F[Docker Deployment]
 
-### 💻 Deep Tech Stack & Tooling
+    style A fill:#238636,stroke:#2ea043,stroke-width:2px
+    style F fill:#1f6feb,stroke:#58a6ff,stroke-width:2px
+````
+
+---
+
+## 💻 Tech Stack
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>⚙️ Core & Backend</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,nodejs,express,django" /></a>
+      <h4>⚙️ Languages & Backend</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,nodejs,express,django" />
+      </a>
     </td>
     <td width="33%" valign="top">
-      <h4>🎨 Frontend & Data</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql" /></a>
+      <h4>🎨 Frontend & Databases</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql" />
+      </a>
     </td>
     <td width="34%" valign="top">
-      <h4>🔧 Orchestration & DevOps</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vercel" /></a>
+      <h4>🔧 DevOps & Tools</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vercel" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Hackathon Milestones & Competitive Track Record
+## 🏆 Hackathons & Achievements
 
-| Event / Initiative | Status / Rank | Specialization Focus |
-| :--- | :--- | :--- |
-| 🚀 **StartupTN Ecospark '25** | **Finalist** | Corporate Venturing & Scalable MVP Design |
-| 🛡️ **ZeroDay 24-Hour Hackathon** | **Finalist** | Rapid Architectural Prototyping |
-| 🧠 **GenAI 24-Hour Hackathon** | **Top 10 Finalist** | Advanced Large Language & Generative Systems |****
-
-###💡 Metric Highlights:
-├── SkillRack         --> Solved 1,000+ Algorithmic Challenges (279+ Bronze Badges)
-├── LeetCode          --> Solved 100+ Complex Data Structure Problems
-└── HackerRank        --> Bronze Badge Problem Solver Category
-
+| Event                         | Achievement     | Focus Area              |
+| :---------------------------- | :-------------- | :---------------------- |
+| 🚀 StartupTN Ecospark '25     | Finalist        | MVP Design & Innovation |
+| 🛡️ ZeroDay 24-Hour Hackathon | Finalist        | Rapid Prototyping       |
+| 🧠 GenAI 24-Hour Hackathon    | Top 10 Finalist | Generative AI           |
 
 ---
 
-### 📊 Live Repository Insights & Engineering Analytics
+## 📈 Coding Profiles
+
+* 🟢 **SkillRack:** Solved 1,000+ problems with 279+ bronze badges
+* 🟡 **LeetCode:** Solved 100+ DSA problems
+* 🔵 **HackerRank:** Problem Solving Badge
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANASF1412&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anas's GitHub Stats" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANASF1412&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANASF1412&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANASF1412&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANASF1412&theme=tokyonight&hide_border=true" alt="Anas's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANASF1412&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always open to collaborating on projects related to:
+
+* Machine Learning
+* MLOps
+* Full-Stack Development
+* Computer Vision
+* Open Source
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Engineered%20For%20Scale%20•%20Driven%20By%20Data&fontSize=22&fontColor=ffffff" width="100%"/>
+  <a href="https://www.linkedin.com/in/anas-f-a5a595320">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Building%20Impactful%20Technology&fontSize=22&fontColor=ffffff" width="100%" />
+</p>
+```
