@@ -142,6 +142,12 @@ I'm always open to collaborating on projects related to:
   <a href="https://www.linkedin.com/in/anas-f-a5a595320" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
+    <a href="https://anas-f-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
+  <a href="mailto:anas.f2024csbs@sece.ac.in">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+  </a>
 </p>
 
 <p align="center">
