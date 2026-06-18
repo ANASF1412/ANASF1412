@@ -9,9 +9,8 @@
 <h1 align="center">Hi there, I'm Anas F 👋</h1>
 
 <p align="center">
-  <strong>B.Tech in Computer Science and Business Systems (CSBS)</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anas+F+%F0%9F%91%8B;B.Tech+CSBS+Undergraduate;Full-Stack+Developer+%7C+ML%2FMLOps+Enthusiast;Turning+Code+Into+Impact" alt="Typing SVG" />
 </p>
-
 <p align="center">
   Building Scalable Applications • Exploring MLOps • Solving Algorithmic Problems
 </p>
